@@ -22,5 +22,4 @@ A web platform enabling users to connect and exchange skills seamlessly.
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/vaibhav56788/skill_SWAP.git]
-   (https://github.com/vaibhav56788/skill_SWAP.git)
+   git clone [https://github.com/vaibhav56788/skill_SWAP.git](https://github.com/vaibhav56788/skill_SWAP.git)
