@@ -1,7 +1,7 @@
 # SKILL_SWAP
 # skill-swap - Track 2: Web Product
 
-**Hackathon ID:** YOUR_HACKATHON_ID_HERE
+**Hackathon ID:** 
 
 ## Track & Tech Stack
 * **Track:** Track 2 - Web Product
